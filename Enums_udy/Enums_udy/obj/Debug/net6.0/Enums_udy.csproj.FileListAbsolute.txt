@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\bin\Debug\net6.0\Enums_udy.exe
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\bin\Debug\net6.0\Enums_udy.deps.json
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\bin\Debug\net6.0\Enums_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\bin\Debug\net6.0\Enums_udy.dll
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\bin\Debug\net6.0\Enums_udy.pdb
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\Enums_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\Enums_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\Enums_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\Enums_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\Enums_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\Enums_udy.dll
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\refint\Enums_udy.dll
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\Enums_udy.pdb
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\Enums_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\Enums_udy\Enums_udy\obj\Debug\net6.0\ref\Enums_udy.dll
